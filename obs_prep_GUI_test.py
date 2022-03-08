@@ -28,7 +28,7 @@ for line in lines:
     
 print(data)
 
-# t = Time(data[0], format='iso', scale='utc')
+# t = Time(data[0], format='iso', scale='utc') isot is another date format
 
 # longitude=data[1]
 # latitude=data[2]
