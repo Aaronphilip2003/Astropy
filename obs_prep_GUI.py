@@ -49,7 +49,7 @@ with open('data123.txt','a') as f:
 
 
 # Buttons, Fonts
-Font_tuple = ("Comic Sans MS", 15, "bold")
+Font_tuple = ("Comic Sans MS", 16, "bold")
 
 
 e = Entry(root,background="grey",fg="white",font=Font_tuple,width=40)
